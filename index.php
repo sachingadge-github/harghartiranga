@@ -170,58 +170,8 @@
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <img class="w-100" src="https://technext.github.io/apex/img/carousel-2.jpg" alt="Image" />
-            <div class="carousel-caption">
-              <div class="container">
-                <div class="row justify-content-center">
-                  <div class="col-12 col-lg-10">
-                    <h5
-                      class="text-light text-uppercase mb-3 animated slideInDown"
-                    >
-                      Welcome to Apex
-                    </h5>
-                    <h1 class="display-2 text-light mb-3 animated slideInDown">
-                      Professional Tiling & Painting Services
-                    </h1>
-                    <ol class="breadcrumb mb-4 pb-2">
-                      <li class="breadcrumb-item fs-5 text-light">
-                        Commercial
-                      </li>
-                      <li class="breadcrumb-item fs-5 text-light">
-                        Residential
-                      </li>
-                      <li class="breadcrumb-item fs-5 text-light">
-                        Industrial
-                      </li>
-                    </ol>
-                    <a href="" class="btn btn-primary py-3 px-5"
-                      >More Details</a
-                    >
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <button
-          class="carousel-control-prev"
-          type="button"
-          data-bs-target="#header-carousel"
-          data-bs-slide="prev"
-        >
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button
-          class="carousel-control-next"
-          type="button"
-          data-bs-target="#header-carousel"
-          data-bs-slide="next"
-        >
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
+           
+        </div> 
       </div>
     </div>
     <!-- Carousel End -->
@@ -247,40 +197,36 @@
           <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
             <div class="h-100">
               <div class="border-start border-5 border-primary ps-4 mb-5">
-                <h6 class="text-body text-uppercase mb-2">About Us</h6>
+                <h6 class="text-body text-uppercase mb-2"></h6>
                 <h1 class="display-6 mb-0">
-                  Unique Solutions For Residentials & Industries!
+                FLAG DONOR
                 </h1>
               </div>
               <p>
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-                sed stet lorem sit clita duo justo magna dolore erat amet
-              </p>
-              <p class="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-                sed stet lorem sit clita duo justo magna dolore erat amet
+                झेंडा उपलब्ध करून देण्यासाठी इच्छुक सेवाभावी संस्था किंवा व्यक्ति खाली दिलेल्या दिलेल्या बटण वर क्लिक करून नोंदणी करू शकतात. नोंदणी झाल्यानंतर आमच्या तर्फे आपणास संपर्क साधला जाईल...
+                <div class="col-lg-6   wow fadeInUp" data-wow-delay="0.3s">
+                  <a class="btn btn-primary py-3 px-5" href="">More Services</a>
+                </div>
               </p>
               <div class="border-top mt-4 pt-4">
                 <div class="row g-4">
-                  <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.1s">
+                  <div class="col-sm-12 d-flex wow fadeIn" data-wow-delay="0.1s">
                     <i
                       class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
                     ></i>
-                    <h6 class="mb-0">Ontime at services</h6>
+                    <h6 class="mb-0">झेंडा मिळाल्याची नोंदणी</h6>
                   </div>
-                  <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.3s">
+                  <div class="col-sm-12 d-flex wow fadeIn" data-wow-delay="0.3s">
                     <i
                       class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
                     ></i>
-                    <h6 class="mb-0">24/7 hours services</h6>
+                    <h6 class="mb-0">झेंडा उत्पादक / वितरक लॉगिन</h6>
                   </div>
-                  <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.5s">
+                  <div class="col-sm-12 d-flex wow fadeIn" data-wow-delay="0.5s">
                     <i
                       class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
                     ></i>
-                    <h6 class="mb-0">Verified professionals</h6>
+                    <h6 class="mb-0"> जवळचा झेंडा उत्पादक / वितरक शोधा</h6>
                   </div>
                 </div>
               </div>
@@ -291,169 +237,7 @@
     </div>
     <!-- About End -->
 
-    <!-- Facts Start -->
-    <div class="container-fluid my-5 p-0">
-      <div class="row g-0">
-        <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
-          <div class="position-relative">
-            <img class="img-fluid w-100" src="https://technext.github.io/apex/img/fact-1.jpg" alt="" />
-            <div class="facts-overlay">
-              <h1 class="display-1">01</h1>
-              <h4 class="text-white mb-3">Construction</h4>
-              <p class="text-white">
-                Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit
-                clita duo justo erat amet
-              </p>
-              <a class="text-white small" href=""
-                >READ MORE<i class="fa fa-arrow-right ms-3"></i
-              ></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.3s">
-          <div class="position-relative">
-            <img class="img-fluid w-100" src="https://technext.github.io/apex/img/fact-2.jpg" alt="" />
-            <div class="facts-overlay">
-              <h1 class="display-1">02</h1>
-              <h4 class="text-white mb-3">Mechanical</h4>
-              <p class="text-white">
-                Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit
-                clita duo justo erat amet
-              </p>
-              <a class="text-white small" href=""
-                >READ MORE<i class="fa fa-arrow-right ms-3"></i
-              ></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.5s">
-          <div class="position-relative">
-            <img class="img-fluid w-100" src="https://technext.github.io/apex/img/fact-3.jpg" alt="" />
-            <div class="facts-overlay">
-              <h1 class="display-1">03</h1>
-              <h4 class="text-white mb-3">Architecture</h4>
-              <p class="text-white">
-                Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit
-                clita duo justo erat amet
-              </p>
-              <a class="text-white small" href=""
-                >READ MORE<i class="fa fa-arrow-right ms-3"></i
-              ></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.7s">
-          <div class="position-relative">
-            <img class="img-fluid w-100" src="https://technext.github.io/apex/img/fact-4.jpg" alt="" />
-            <div class="facts-overlay">
-              <h1 class="display-1">04</h1>
-              <h4 class="text-white mb-3">Interior Design</h4>
-              <p class="text-white">
-                Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit
-                clita duo justo erat amet
-              </p>
-              <a class="text-white small" href=""
-                >READ MORE<i class="fa fa-arrow-right ms-3"></i
-              ></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Facts End -->
-
-    <!-- Features Start -->
-    <div class="container-xxl py-5">
-      <div class="container">
-        <div class="row g-5">
-          <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h6 class="text-body text-uppercase mb-2">Why Choose Us!</h6>
-              <h1 class="display-6 mb-0">
-                Our Specialization And Company Features
-              </h1>
-            </div>
-            <p class="mb-5">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
-            </p>
-            <div class="row gy-5 gx-4">
-              <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
-                <div class="d-flex align-items-center mb-3">
-                  <i
-                    class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
-                  ></i>
-                  <h6 class="mb-0">Large number of services provided</h6>
-                </div>
-                <span
-                  >Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span
-                >
-              </div>
-              <div class="col-sm-6 wow fadeIn" data-wow-delay="0.2s">
-                <div class="d-flex align-items-center mb-3">
-                  <i
-                    class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
-                  ></i>
-                  <h6 class="mb-0">25+ years of professional experience</h6>
-                </div>
-                <span
-                  >Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span
-                >
-              </div>
-              <div class="col-sm-6 wow fadeIn" data-wow-delay="0.3s">
-                <div class="d-flex align-items-center mb-3">
-                  <i
-                    class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
-                  ></i>
-                  <h6 class="mb-0">A large number of grateful customers</h6>
-                </div>
-                <span
-                  >Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span
-                >
-              </div>
-              <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
-                <div class="d-flex align-items-center mb-3">
-                  <i
-                    class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
-                  ></i>
-                  <h6 class="mb-0">Always reliable and affordable prices</h6>
-                </div>
-                <span
-                  >Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-            <div
-              class="position-relative overflow-hidden ps-5 pt-5 h-100"
-              style="min-height: 400px"
-            >
-              <img
-                class="position-absolute w-100 h-100"
-                src="https://technext.github.io/apex/img/feature.jpg"
-                alt=""
-                style="object-fit: cover"
-              />
-              <div
-                class="position-absolute top-0 start-0 bg-white pe-3 pb-3"
-                style="width: 200px; height: 200px"
-              >
-                <div
-                  class="d-flex flex-column justify-content-center text-center bg-primary h-100 p-3"
-                >
-                  <h1 class="text-white">25</h1>
-                  <h2 class="text-white">Years</h2>
-                  <h5 class="text-white mb-0">Experience</h5>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Features End -->
+ 
 
     <!-- Service Start -->
     <div class="container-xxl py-5">
@@ -461,104 +245,99 @@
         <div class="row g-5 align-items-end mb-5">
           <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="border-start border-5 border-primary ps-4">
-              <h6 class="text-body text-uppercase mb-2">Our Services</h6>
+              <!-- <h6 class="text-body text-uppercase mb-2">Our Services</h6> -->
               <h1 class="display-6 mb-0">
-                Construction And Renovation Solutions
+              नियम आणि अटी
               </h1>
             </div>
           </div>
-          <div class="col-lg-6 text-lg-end wow fadeInUp" data-wow-delay="0.3s">
+          <!-- <div class="col-lg-6 text-lg-end wow fadeInUp" data-wow-delay="0.3s">
             <a class="btn btn-primary py-3 px-5" href="">More Services</a>
-          </div>
+          </div> -->
         </div>
         <div class="row g-4 justify-content-center">
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="https://technext.github.io/apex/img/service-1.jpg" alt="" />
+              <img class="img-fluid" src="https://im.indiatimes.in/media/content/2016/Aug/flag7_1471075500.jpg" alt="" />
               <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">Building Construction</h5>
-                <p>
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
-                </p>
-                <a class="small" href=""
-                  >READ MORE<i class="fa fa-arrow-right ms-3"></i
-                ></a>
+                <h5 class="mb-3">राष्ट्रध्वज कशाचा असावा</h5>
+                
+                  <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i>
+                    हाताने कातलेला
+                  </p>
+                  <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i>
+                    हाताने विणलेला
+                  </p>
+                  <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i>
+                    मशीनद्वारे तयार केलेला ( सूत / पॉलिस्टर / लोकर / सिल्क / खादी )
+                  </p>
+                
+                
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="https://technext.github.io/apex/img/service-2.jpg" alt="" />
+              <img class="img-fluid" src="https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/08/14/Pictures/flag_4396c934-de49-11ea-a9c1-0156c0fcc051.jpg" alt="" />
               <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">Home Maintainance</h5>
-                <p>
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
+                <h5 class="mb-3">राष्ट्रध्वजाची उभारणी कुठे करता येईल</h5>
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    शासकीय / निमशासकीय इमारत
                 </p>
-                <a class="small" href=""
-                  >READ MORE<i class="fa fa-arrow-right ms-3"></i
-                ></a>
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    खाजगी आस्थापना इमारत
+                </p>
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    सहकारी / शैक्षणिक संस्था इमारत
+                </p>
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    नागरिकांनी स्वत:च्या घरावर (स्वयंस्फूर्तीने)
+                </p>
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    सहकारी / स्थानिक स्वराज्य संस्था
+                </p>
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    पोलीस यंत्रणा व आरोग्य केंद्र
+                </p>
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    शाळा / महाविद्यालय व परिवहन
+                </p>
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    रास्तभाव धान्य दुकाने
+                </p>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
             <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="https://technext.github.io/apex/img/service-3.jpg" alt="" />
+              <img class="img-fluid" src="reg.png" alt="" />
               <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">Renovation and Painting</h5>
-                <p>
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
+                <h5 class="mb-3">सहभाग नोंदणीचा तपशील</h5>
+                
+
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    सहभागी नागरिक : 12863
                 </p>
-                <a class="small" href=""
-                  >READ MORE<i class="fa fa-arrow-right ms-3"></i
-                ></a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="https://technext.github.io/apex/img/service-4.jpg" alt="" />
-              <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">Wiring and installation</h5>
-                <p>
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    सहभागी झेंडा उत्पादक : 429
                 </p>
-                <a class="small" href=""
-                  >READ MORE<i class="fa fa-arrow-right ms-3"></i
-                ></a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="https://technext.github.io/apex/img/service-5.jpg" alt="" />
-              <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">Tiling and Painting</h5>
-                <p>
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
+                <p style="text-align: left !important;">
+                    <i class="fa fa-check  text-primary flex-shrink-0 me-3"></i> 
+                    सहभागी डोनर : 284
                 </p>
-                <a class="small" href=""
-                  >READ MORE<i class="fa fa-arrow-right ms-3"></i
-                ></a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-            <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="https://technext.github.io/apex/img/service-6.jpg" alt="" />
-              <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">Interior Design</h5>
-                <p>
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
-                </p>
-                <a class="small" href=""
-                  >READ MORE<i class="fa fa-arrow-right ms-3"></i
-                ></a>
               </div>
             </div>
           </div>
@@ -576,139 +355,37 @@
         <div class="row g-5">
           <div class="col-lg-5 col-md-6 wow fadeIn" data-wow-delay="0.3s">
             <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h6 class="text-white text-uppercase mb-2">Appointment</h6>
+              <!-- <h6 class="text-white text-uppercase mb-2">Appointment</h6> -->
               <h1 class="display-6 text-white mb-0">
-                A Company Involved In Service And Maintenance
+                Selfie Competition using the Indian National Flag
               </h1>
             </div>
             <p class="text-white mb-0">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
+              सेल्फी विथ तिरंगा ह्या स्पर्धेमध्ये सहभागी होण्यासाठी खाली दिलेल्या बटणवर क्लिक करा.
+
             </p>
+           
           </div>
           <div class="col-lg-7 col-md-6 wow fadeIn" data-wow-delay="0.5s">
             <form>
               <div class="row g-3">
-                <div class="col-sm-6">
-                  <div class="form-floating">
-                    <input
-                      type="text"
-                      class="form-control bg-dark border-0"
-                      id="gname"
-                      placeholder="Gurdian Name"
-                    />
-                    <label for="gname">Your Name</label>
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-floating">
-                    <input
-                      type="email"
-                      class="form-control bg-dark border-0"
-                      id="gmail"
-                      placeholder="Gurdian Email"
-                    />
-                    <label for="gmail">Your Email</label>
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-floating">
-                    <input
-                      type="text"
-                      class="form-control bg-dark border-0"
-                      id="cname"
-                      placeholder="Child Name"
-                    />
-                    <label for="cname">Your Mobile</label>
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-floating">
-                    <input
-                      type="text"
-                      class="form-control bg-dark border-0"
-                      id="cage"
-                      placeholder="Child Age"
-                    />
-                    <label for="cage">Service Type</label>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="form-floating">
-                    <textarea
-                      class="form-control bg-dark border-0"
-                      placeholder="Leave a message here"
-                      id="message"
-                      style="height: 100px"
-                    ></textarea>
-                    <label for="message">Message</label>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <button class="btn btn-primary w-100 py-3" type="submit">
-                    Get Appointment
-                  </button>
-                </div>
+                <img src="mygov.jpg" alt="">
+               
+               
               </div>
             </form>
           </div>
+          <div class="col-12">
+                  <button class="btn btn-primary w-100 py-3" type="submit">
+                    Participate
+                  </button>
+                </div>
         </div>
       </div>
     </div>
     <!-- Appointment End -->
 
-    <!-- Team Start -->
-    <div class="container-xxl py-5">
-      <div class="container">
-        <div class="row g-5 align-items-end mb-5">
-          <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="border-start border-5 border-primary ps-4">
-              <h6 class="text-body text-uppercase mb-2">Our Team</h6>
-              <h1 class="display-6 mb-0">Our Expert Worker</h1>
-            </div>
-          </div>
-          <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-            <p class="mb-0">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
-            </p>
-          </div>
-        </div>
-        <div class="row g-4">
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="team-item position-relative">
-              <img class="img-fluid" src="https://technext.github.io/apex/img/team-1.jpg" alt="" />
-              <div class="team-text bg-white p-4">
-                <h5>Full Name</h5>
-                <span>Engineer</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="team-item position-relative">
-              <img class="img-fluid" src="https://technext.github.io/apex/img/team-2.jpg" alt="" />
-              <div class="team-text bg-white p-4">
-                <h5>Full Name</h5>
-                <span>Engineer</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-            <div class="team-item position-relative">
-              <img class="img-fluid" src="https://technext.github.io/apex/img/team-3.jpg" alt="" />
-              <div class="team-text bg-white p-4">
-                <h5>Full Name</h5>
-                <span>Engineer</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Team End -->
-
+  
     <!-- Testimonial Start -->
     <div class="container-xxl py-5">
       <div class="container">
@@ -792,14 +469,14 @@
     >
       <div class="container py-5">
         <div class="row g-5">
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
+            <img src="Azadi_logo.png" style="width: 70px;"  width="10%" alt=""> 
+            <img src="logo.png" style="width: 70px;"  width="10%" alt=""> 
+            
             <h1 class="text-white mb-4">
-              <i class="fa fa-building text-primary me-3"></i>APEX
+               हर घर तिरंगा
             </h1>
-            <p>
-              Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat
-              ipsum et lorem et sit, sed stet lorem sit clita
-            </p>
+           
             <div class="d-flex pt-2">
               <a class="btn btn-square btn-outline-primary me-1" href=""
                 ><i class="fab fa-twitter"></i
@@ -815,7 +492,7 @@
               ></a>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <h4 class="text-light mb-4">Address</h4>
             <p>
               <i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA
@@ -823,7 +500,7 @@
             <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
             <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
           </div>
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <h4 class="text-light mb-4">Quick Links</h4>
             <a class="btn btn-link" href="">About Us</a>
             <a class="btn btn-link" href="">Contact Us</a>
@@ -831,36 +508,18 @@
             <a class="btn btn-link" href="">Terms & Condition</a>
             <a class="btn btn-link" href="">Support</a>
           </div>
-          <div class="col-lg-3 col-md-6">
-            <h4 class="text-light mb-4">Newsletter</h4>
-            <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
-            <div class="position-relative mx-auto" style="max-width: 400px">
-              <input
-                class="form-control bg-transparent w-100 py-3 ps-4 pe-5"
-                type="text"
-                placeholder="Your email"
-              />
-              <button
-                type="button"
-                class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2"
-              >
-                SignUp
-              </button>
-            </div>
-          </div>
         </div>
       </div>
       <div class="container-fluid copyright">
         <div class="container">
           <div class="row">
             <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-              &copy; <a href="#">Your Site Name</a>, All Right Reserved.
+              &copy; <a href="#">Harghartiranga</a>, All Right Reserved.
             </div>
             <div class="col-md-6 text-center text-md-end">
               <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-              Designed By <a href="https://htmlcodex.com">HTML Codex</a>
-              <br />Distributed By:
-              <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+              Designed By <a href="https://technotract.com">Technotract</a>
+              
             </div>
           </div>
         </div>
