@@ -67,7 +67,8 @@
                     </select>
                     <label for="district">तालुका *</label>
                   </div>
-                </div><div class="col-sm-6">
+                </div>
+                <div class="col-sm-6">
                   <div class="form-floating">
                     <select name="village"  class="form-control bg-light border-0"  id="village">
                         <option value="">निवडा</option>

@@ -38,6 +38,13 @@
 
     <!-- Template Stylesheet -->
     <link href="https://technext.github.io/apex/css/style.css" rel="stylesheet" />
+
+    <style>
+      .page-header, .appointment{
+        background : linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("bg2.png") center center no-repeat !important;
+      }
+
+    </style>
   </head>
 
   <body>
@@ -93,7 +100,7 @@
     <nav
       class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0"
     >
-      <a href="index.html" class="navbar-brand d-flex align-items-center">
+      <a href="index.php" class="navbar-brand d-flex align-items-center">
         <h1 class="m-1" >
           <img src="Azadi_logo.png" style="width: 70px;"  width="10%" alt=""> 
           <img src="logo.png" style="width: 70px;"  width="10%" alt=""> 
