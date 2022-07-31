@@ -1,18 +1,24 @@
-<?php include("header.php"); ?>
+<?php //include("header.php"); ?>
+<?php include("header1.php"); ?> 
 
+<style>
+  .page-header, .appointment{
+    background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.65)), url("rgp.jpg") center center no-repeat !important;
+  }
+</style>
 <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeIn;">
     <div class="container text-center py-5">
     <h1 class="display-4 text-white  slideInDown mb-4">
-        नोंदणी फॉर्म
+      &nbsp;
     </h1>
     <nav aria-label="breadcrumb animated slideInDown">
-        <ol class="breadcrumb justify-content-center mb-0">
+        <ol class=" ">
         <li class="breadcrumb-item">
-            <a class="text-white" href="index.php">मुख्यपृष्ठ</a>
+            <!-- <a class="text-white" href="index.php">मुख्यपृष्ठ</a> -->
         </li>
         
         <li class="breadcrumb-item text-primary active" aria-current="page">
-            नोंदणी फॉर्म
+            &nbsp;
         </li>
         </ol>
     </nav>
@@ -24,22 +30,30 @@
         <div class="row g-5">
             <div class="col-lg-5 col-md-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                 <div class="border-start border-5 border-primary ps-4 mb-5">
-                <h6 class="text-body text-uppercase mb-2">नोंदणी फॉर्म</h6>
+                <h6 class="text-body text-uppercase mb-2">रायगड जिल्हा परिषद</h6>
                 <h1 class="display-6 mb-0">
-                तिरंगा कुठे लावणार?
+                शिवतीर्थाचा इतिहास
                 </h1>
                 </div>
              
                 <div class="border-top mt-4 pt-4">
                 <div class="row g-6">
-                  <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeIn;">
-                     
-                    <button class="btn btn-info btn-sm w-100 py-3" type="button" id="home"> घरावर </button>
-                  </div>
-                  <div class="col-sm-6 d-flex wow fadeIn" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
-                    
-                    <button class="btn btn-info btn-sm w-100 py-3" type="button" id="corporate">संस्थेच्या  इमारतीवर </button>
-                  </div>
+                 
+                <p>
+                    कुलाबा जिल्ह्यात लोकल बोर्ड अस्तित्वात आल्या पासून जिल्ह्याचे मुख्यालय अलिबागला असावे का पेणला या संदर्भात वाद सुरु होता. १९६२ मध्ये पंचायत राज अस्तित्वात आल्यानंतर जिल्हा परिषदांची स्थापना झाली. प्रारंभी जिल्हा परिषदेची काही खाती अलिबागला तर काही खाती पेणला होती, त्यामुळे दैनंदिन कामकाजा मध्ये अनेक अडचणी येत होत्या.
+
+तथापी ८ जून १९७९ रोजी मा. श्री. प्रभाकर पाटील यांनी अध्यक्ष म्हणुन जिल्हा परिषदेची सुत्रे हाती घेतल्या नंतर अवघ्या दहा दिवसात पेणमधील सर्व खाती अलिबागला आणली परंतु या खात्यांची कार्यालये एका इमारतीत बसतील एवढी जागा उपलब्ध नव्हती. ही अडचण दूर करुन कारभारात सुसूत्रीपणा आणण्यासाठी आणि सामान्यांना होणारा त्रास टाळण्यासाठी मा. श्री. प्रभाकर पाटील यांनी जि. प. ची स्वतंत्र शासकीय इमारत बांधण्याचा निर्णय घेतला आणि शासकीय निधीची प्रतिक्षा करीत न बसता बांधकामास प्रारंभ केला.
+
+१९८४ मध्ये जि. प. ची ही भव्य वास्तू तेवढीच देखणी वास्तू समुद्राला साक्षी ठेवून उभी राहिली. “शिवतीर्थ“ असे इमारतीचे नामकरण करण्यात आले. शिव म्हणजे कल्याण व तिर्थ म्हणजे पवित्र पाणी!. या वास्तु मधून सागराप्रमाणे विकासाच्या व जनकल्याणाच्या योजना बाहेर पडाव्यात अशी शिवतीर्था मागची संकल्पना आहे.
+
+इमारती मध्ये जी दालानं आहेत त्यांनाही कै. ना. ना. पाटील, कै. सुरबानाना टिपणीस, अनंतराव चित्रे, ग. भा. पंडीत आदि विभूतींची नावे देण्यात आली आहेत. रायगडाच्या सुपुत्रांनी जिल्ह्याचा इतिहास घडवला आहे.
+
+रायगड किल्ल्याची उभारणी करणारे सुभेदार हिरोजी हिंदाळकर यांनी जगदीश्वर मंदिराच्या पायरीवर सेवेच्या ठायी तत्पर हिरोजी हिंदोळकर ! असे नाव कोरले आहे. याच धर्तीवर शिवतीर्थाची उभारणी करणार्‍या प्रभाकर पाटलांचे सेवेच्या ठायी तत्पर पाटील प्रभाकर ! असे नाव प्रवेशव्दारावर कोरण्यात आले आहे.
+
+प्रभाकर पाटलांनी एक तप शिवतीर्थावरुन रायगडचा कारभार चालविला. लोकाभिमुख प्रशासनाचा नवा आदर्श निर्माण केला, त्यामुळेच जिल्ह्यातील गोरगरीब जनतेच्या हृदयात प्रभाकर पाटलांचे नाव कायमचे कोरले गेले आहे.
+
+ 
+                  </p>
                  
                 </div>
               </div>

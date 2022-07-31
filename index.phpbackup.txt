@@ -34,11 +34,11 @@
                 <div class="row g-6">
                   <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeIn;">
                      
-                    <button class="btn btn-info btn-sm w-100 py-3" type="button" id="home"> घरावर </button>
+                    <button class="btn btn-info btn-sm w-100 py-3" type="button" id="home" onClick="alert('घरावर');"> घरावर </button>
                   </div>
                   <div class="col-sm-6 d-flex wow fadeIn" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                     
-                    <button class="btn btn-info btn-sm w-100 py-3" type="button" id="corporate">संस्थेच्या  इमारतीवर </button>
+                    <button class="btn btn-info btn-sm w-100 py-3" type="button" id="home" onClick="alert('संस्थेच्या  इमारतीवर');">संस्थेच्या  इमारतीवर </button>
                   </div>
                  
                 </div>
@@ -47,60 +47,18 @@
           <div class="col-lg-7 col-md-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
             <form>
               <div class="row g-3">
-                
-              
-          
-              
-              <div class="col-sm-6" >
-                  <div class="form-floating">
-                    <select name="taluka"  class="form-control bg-light border-0"  id="taluka">
-                        <option value="">निवडा</option>
-                        <option value="">प्रकार 1</option>
-                        <option value="">प्रकार 2</option>
-                    </select>
-                    <label for="district">एवेन्ट् प्रकार *</label>
-                  </div>
-                </div>
-
-
-              <div class="col-sm-6">
+                <div class="col-sm-6">
                   <div class="form-floating">
                     <input type="text" class="form-control bg-light border-0" id="gname" placeholder="Gurdian Name">
-                    <label for="gname" id="nameLabel">नाव *</label>
+                    <label for="gname">नाव *</label>
                   </div>
                 </div>
-                
-
-                <div class="col-sm-6 corporateSection">
-                  <div class="form-floating">
-                  <select name="taluka"  class="form-control bg-light border-0"  id="taluka">
-                        <option value="">निवडा</option>
-                        <option value="">प्रकार 1</option>
-                        <option value="">प्रकार 2</option>
-                    </select>
-                    <label for="gname">संस्थेचा प्रकार *</label>
-                  </div>
-                </div>
-                <!-- <div class="col-sm-6">
-                </div> -->
-
-                <!-- <div class="col-sm-6">
-                  <div class="form-floating">
-                    <input type="text" class="form-control bg-light border-0" id="gname" placeholder="Gurdian Name">
-                    <label for="gname">संस्थेचे नाव *</label>
-                  </div>
-                </div>
-                 -->
-
-                
-               
                 <div class="col-sm-6">
                   <div class="form-floating">
                     <input type="district" class="form-control bg-light border-0" id="district" placeholder="District" value="Raigad" readonly>
                     <label for="district">जिल्हा *</label>
                   </div>
-                </div>
-                <div class="col-sm-6">
+                </div><div class="col-sm-6">
                   <div class="form-floating">
                     <select name="taluka"  class="form-control bg-light border-0"  id="taluka">
                         <option value="">निवडा</option>
@@ -132,7 +90,7 @@
                     <label for="cname">ई-मेल आयडी *</label>
                   </div>
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-12">
                   <div class="form-floating">
                     <select name="supplier"  class="form-control bg-light border-0"  id="supplier">
                         <option value="">निवडा</option>
@@ -142,20 +100,12 @@
                     <label for="cage">तुमच्या जवळचा झेंडा उत्पादक / वितरक यादी *</label>
                   </div>
                 </div>
-                <div class="col-6">
+                <div class="col-12">
                   <div class="form-floating">
                     <textarea class="form-control bg-light border-0" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
                     <label for="message">पत्ता *</label>
                   </div>
                 </div>
-                
-                <div class="col-sm-6">
-                  <div class="form-floating">
-                    <input type="file" class="" id="gname" placeholder="Gurdian Name">
-                    <label for="gname" style="position: unset !important;">फोटो अपलोड करा *</label>
-                  </div>
-                </div>
-
                 <div class="col-12">
                   <button class="btn btn-primary w-100 py-3" type="submit">
                     Submit
@@ -168,20 +118,3 @@
       </div>
     </div>
 <?php require('footer.php'); ?>
-<script>
-
-   
-$("#nameLabel").text('नाव *');
-$(".corporateSection").hide();
-
-$("#home").click(function() { 
-   // assumes element with id='button'
-  $("#nameLabel").text('नाव *');    
-    $(".corporateSection").hide();
-});
-$("#corporate").click(function() { 
-  $("#nameLabel").text('संस्थेचे नाव *');
-    
-    $(".corporateSection").show();
-});
-</script>
